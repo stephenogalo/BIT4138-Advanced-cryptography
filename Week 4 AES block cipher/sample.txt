@@ -1,0 +1,1 @@
+This is a secure AES encryption and decryption demonstration for Week 4 cryptography project.
